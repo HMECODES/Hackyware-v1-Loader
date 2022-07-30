@@ -1,2 +1,2 @@
-setclipboard("http://hware/xyz")
+setclipboard("http://hware.xyz")
 game:GetService("Players").LocalPlayer:Kick("Script moved to my website! Copied to clipboard")
