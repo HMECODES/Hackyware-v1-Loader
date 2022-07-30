@@ -1,2 +1,2 @@
-setclipboard("https://dsc.gg/hacky")
-game:GetService("Players").LocalPlayer:Kick("Please Wait For The Next Update, For Further Informations Join Our Discord: https://dsc.gg/hacky, Copied To Clipboard")
+setclipboard("http://hware/xyz")
+game:GetService("Players").LocalPlayer:Kick("Script moved to my website! Copied to clipboard")
